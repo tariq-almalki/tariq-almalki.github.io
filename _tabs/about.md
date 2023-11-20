@@ -1,9 +1,3 @@
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
-
 As a Full-Stack Engineer, I possess a strong foundation in core languages such as Java, JavaScript, and Python. On the front-end, I am proficient in JavaScript, HTML5, and CSS3, enabling me to create engaging and responsive user interfaces.
 
 I have extensive experience with front-end frameworks and libraries like React.js, React Router, and styled-components, empowering me to build dynamic and visually appealing web applications.
