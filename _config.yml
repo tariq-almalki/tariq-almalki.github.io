@@ -91,9 +91,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: tariq-almalki/tariq-almalki.github.io # <gh-username>/<repo>
-    repo_id: "R_kgDOH5G3Uw"
+    repo_id: 'R_kgDOH5G3Uw'
     category: 'Announcements'
-    category_id: "DIC_kwDOH5G3U84CRUp9"
+    category_id: 'DIC_kwDOH5G3U84CRUp9'
     mapping: 'pathname' # optional, default to 'pathname'
     loading: lazy
     input_position: 'bottom' # optional, default to 'bottom'
