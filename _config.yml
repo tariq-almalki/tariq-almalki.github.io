@@ -95,7 +95,6 @@ comments:
     category: 'Announcements'
     category_id: 'DIC_kwDOH5G3U84CRUp9'
     mapping: 'pathname' # optional, default to 'pathname'
-    loading: lazy
     input_position: 'bottom' # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: '1' # optional, default to the value of `1`
