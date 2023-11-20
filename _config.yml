@@ -92,7 +92,7 @@ comments:
   giscus:
     repo: tariq-almalki/tariq-almalki.github.io # <gh-username>/<repo>
     repo_id:
-    category:
+    category: 'Announcements'
     category_id:
     mapping: 'pathname' # optional, default to 'pathname'
     loading: lazy
